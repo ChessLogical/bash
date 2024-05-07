@@ -6,3 +6,4 @@ Bash Scripts for the discerning coder. Keep in mind that in Bash, dealing with v
 
 3- One-Time Pad Encryption Script- overwrites target file
 
+4- Bash menu script to help with Cargo. Designed to save time when rust coding. 
